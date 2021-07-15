@@ -8,19 +8,20 @@
 </template>
 
 <script>
-// @ is an alias to /src
-
 
 export default {
-  name: 'Home',
-  created(){
-    let os = require('os')
-    this.str = os.platform()
-  },
-  data(){
-    return {
-      str:''
-    }
+    name: 'Home',
+    created(){
+        let os = require('os')
+        this.str = os.platform()
+    },
+    mounted() {
+
+    },
+    data(){
+        return {
+          str:''
+        }
   }
 }
 </script>
