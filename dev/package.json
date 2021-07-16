@@ -1,17 +1,21 @@
 {
   "name": "archetype",
-  "main": "./dist/index.html",
+  "main": "http://localhost:1234/",
   "window": {
     "frame": true,
     "transparent": false
   },
+  "nodejs": "true",
+  "node-main": "../serv",
+  "single-instance": true,
+  "bg-script": "bg.js",
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "start": "nw"
   },
   "dependencies": {
-    "nw": "^0.54.1-sdk",
+    "nw": "^0.54.0-sdk",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"

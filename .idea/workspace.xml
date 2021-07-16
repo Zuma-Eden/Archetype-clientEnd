@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bf463e5-f322-44f7-a561-20c2e9b61511" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dev/public/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serv/aaa.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serv/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/dev/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dev/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/public/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/src/node/node.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,8 +103,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Archetype-Electron_vue" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -117,6 +118,7 @@
       <recent name="D:\Desktop\GitHub\祖玛乐园 Zuma-Eden\Archetype-clientEnd\dev" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\GitHub\祖玛乐园 Zuma-Eden\Archetype-clientEnd\dev\src\node" />
       <recent name="D:\Desktop\Git\祖玛乐园 Zuma-Eden\Archetype-clientEnd\dev\public" />
       <recent name="D:\Desktop\Git\祖玛乐园 Zuma-Eden\Archetype-clientEnd\dev\src\node" />
     </key>
@@ -138,6 +140,7 @@
       <workItem from="1626367996299" duration="216000" />
       <workItem from="1626368932698" duration="17000" />
       <workItem from="1626374155952" duration="1016000" />
+      <workItem from="1626406891597" duration="2949000" />
     </task>
     <servers />
   </component>
